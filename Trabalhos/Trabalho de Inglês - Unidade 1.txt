@@ -1,0 +1,68 @@
+Learning activities
+1. Place the following sentences into the negative and interrogative form:
+a) The computer is working.
+
+	R= The computer is not working.
+	
+	R= Is the computer working?
+
+b) My keyboard is broken.
+
+	R= My keyboard is not broken.
+
+	R= Is my keyboard broken?
+
+c) Edson is tired.
+
+	R= Edson is not tired.
+
+	R= Is Edson tired?
+
+d) Marta and Gloria are operating windows system.
+
+	R= Marta and Gloria are not operating windows system.
+
+	R= Are Marta and Gloria operating windows system?
+
+2. Use the correct form of the verb to be.
+a) Computers __are__ machines that perform tasks or calculations.
+b) It __is__ the “brain” of your computer.
+c) The web ___is___also a shopper’s delight.
+d) A website ___is___ a collection of interconnected webpage.
+e) These computers __are___ built to perform a limited number of tasks.
+
+Learning activities
+a) O que são computadores?
+
+	R= São máquinas que realizam tarefas ou cálculos de acordo com um conjunto de instruções,
+	ou programas.
+
+b) Como os computadores trabalham?
+
+	R= Os computadores trabalham através de uma interação de hardware e software. Hardware refere-se a
+	partes de um computador que você pode ver e tocar, incluindo o gabinete e tudo dentro dele.
+	Software refere-se às instruções, ou programas, que dizem ao hardware o que fazer.
+
+c) Qual a peça mais importante?
+
+	R= A peça mais importante é um pequeno chip retangular dentro do seu computador chamado
+	o processamento central (CPU), ou microprocessador. É o “cérebro” do seu computador – a parte
+	que traduz instruções e realiza cálculos.
+
+d) Quais são os itens que compõem o computador?
+
+	R= Itens de hardware como seu monitor, teclado, mouse, impressora e outros componentes são 
+	frequentemente chamados de dispositivos de hardware ou dispositivos.
+
+
+Produza um pequeno texto digital sobre “What are computers?” baseado no texto da unidade. Pode ser apresentado 
+em Inglês ou Português.
+
+
+	R= Os computadores foram feitos para nos auxiliar, seja para realizar uma tarefa simples como uma conta, ou 
+	até mesmo executar algum programa do interesse do usuário. Para isso acontecer é necessário a união entre Software 
+	e Hardware. 
+	Sofware é toda a parte física do computador, é tudo aquilo que o usuário pode ver e tocar. Como por
+	exemplo o seu monitor, teclado, mouse, e outros componentes.
+	Hardware é toda a parte lógica do computador, é tudo aquilo em que o usuário pode ver mas não pode tocar. 
+	Como por exemplo o microprocessador.
