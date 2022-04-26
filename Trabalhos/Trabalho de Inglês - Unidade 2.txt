@@ -1,0 +1,150 @@
+Traduzir as seguintes frases:
+
+1. Não é à toa que descontinuaram a produção de hardware, tornou-se inviável ante o que a concorrência produzia em termos de qualidade.
+
+
+	R= It is not for nothing that they discontinued the production of hardware, it became unfeasible given what the competition produced in terms of quality.
+
+
+2. Será que meu código vai compilar corretamente agora?
+
+
+	R= Will my code compile correctly now?
+
+
+3. Não é à toa que ele não passou no exame! Ele não estudou absolutamente nada!
+
+
+	R= No wonder he didn't pass the exam! He didn't study at all!
+
+
+4. Não é à toa que descontinuaram a produção de hardware, tornou-se inviável ante o que a concorrência produzia em termos de qualidade.
+
+
+	R= It is no wonder that they discontinued the production of hardware, it became unfeasible in the face of what the competition produced in terms of quality.
+
+
+5 Só que temos que analisar que se o servidor continuar dando pau, vai ser impossível entregar o projeto a tempo. 
+	
+
+	R= But we have to analyze that if the server keeps crashing, it will be impossible to deliver the project on time.
+
+==================================================================================================================================================================
+Traduzir as seguintes frases:
+
+1. Eu não trabalho mais no Google.
+
+
+	R= I don't work at Google anymore.
+
+
+2. Eu não quero mais ser o único responsável pela correção deste problema.
+
+
+	R= I no longer want to be solely responsible for fixing this problem.
+
+
+3. Eu não sou mais a pessoa que irá falar com você neste projeto.
+
+
+	R= I am no longer the person who will speak to you on this project.
+
+
+4. Eu não codifico mais em Python. 
+
+
+	R= I no longer code in Python.
+
+==================================================================================================================================================================
+2. Identifique as palavras cognatas no texto “What can you do with computers?” e tente dar o significado delas. 
+Faça uma lista das palavras que você acredite necessárias.
+
+Computers ---> Computadores
+
+Analyse Data ---> Análise Dados
+
+Projects ---> Projetos
+
+Information ---> Informação
+
+Music ---> Música
+
+Finances ---> Finanças
+
+Communicate ---> Comunicar
+
+Others ---> Outros
+
+Possibilities ---> Possibilidades
+
+Connect ---> Conectar
+
+Acess ---> Acesso
+
+Urban ---> Urbano
+
+Areas ---> Áreas
+
+Populated ---> Populosa
+
+Popular ---> Popular
+
+Use ---> Usar
+
+==================================================================================================================================================================
+3. Retire do texto “What can you do with computers?” as palavras repetidas.
+
+The ---> O/A
+
+And ---> E
+
+Computers ---> Computadores
+
+In ---> Dentro
+
+Find ---> Encontrar
+
+You ---> Você
+
+To ---> Para
+
+Use ---> Usar
+
+Can ---> Posso
+
+Communicate ---> Comunicar
+
+People ---> Pessoas
+
+Of ---> De
+
+Information ---> Informação
+
+Internet ---> Internet
+
+World ---> Mundo
+
+Most ---> Maioria
+
+Do ---> Faz
+
+With ---> Com
+
+Are ---> São/Estão
+
+Areas ---> Áreas
+
+==================================================================================================================================================================
+4. Sobre o que é o texto do item anterior? Responda escrevendo um pequeno texto com suas próprias palavras em português ou inglês (Intermediário e Avançado).
+
+
+	R= O texto falava sobre algumas funcionalidades que o computador oferece no local de trabalho, como por exemplo manter registros, analisar dados, fazer
+	pesquisas e gerenciar projetos. E em casa ele serve para encontrar informações, armazenar fotos e música, controlar finanças, jogar e comunicar-se com 
+	outras pessoas. E posteriormente destaca que ele pode se conectar a internet por uma taxa mensal na maioria das áreas urbanas, e cada vez mais, em áreas 
+	menos povoadas. Com acesso a ela o usuário pode e comunicar com as pessoas em todo o mundo e encontrar uma vasta quantidade de informações.
+
+	R= The text talked about some functionalities that the computer offers in the workplace, such as keeping records, analyzing data, making research and 
+	manage projects. And to find information, play pictures and he serve, control finances, communicate other people. And later it is pointed out that he 
+	can connect to an internet for a monthly fee in most urban areas, and increasingly, in areas less populated. With access to it the user can communicate
+	with people all over the world and find a lot of information.
+
