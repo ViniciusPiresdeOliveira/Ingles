@@ -1,0 +1,159 @@
+Learning activities
+
+---> Page 35 and page 36
+
+Choose the correct concept of the following words:
+
+1) Memory
+
+(a) It is what you have to pay when you buy something.
+(b) Enables a computer to store, at least temporarily, data and program.
+(c) When you use the phone to call someone.
+
+	R= B
+
+2) Mass storage device:
+
+(a) Something that tell who a person is.
+(b) An area in a business office.
+(c) Allows a computer to permanently retain large amounts of data. Common mass storage
+devices include disk drives and tape drives.
+
+	R= C
+
+3) Input device:
+
+(a) Usually keyboard and mouse, the input device is the conduit through which data and
+instructions enter a computer.
+(b) The department that sells a business’s products.
+(c) A person from another country. 
+
+	R= A
+
+4) Output device:
+
+(a) A display screen, printer, or other device that lets you see what the computer has
+accomplished.
+(b) To look at many things and then take one or two, as the person wishes.
+(c) To write your name. 
+
+	R= A
+
+5) Central Processing Unit (CPU):
+
+(a) To say that you certainly will or will not do something.
+(b) A person who is not smart.
+(c) The heart of the computer, this is the component that actually executes instructions.
+
+	R= C
+
+============================================================================================================
+Learning activities
+
+---> Page 37
+
+Fill in the blanks with the simple present:
+
+a) Mirna __is reading__ (read) his magazine every day.
+
+b) Mathew __is doing__ (do) her exercise at school.
+
+c) Leonardo ___is learning____(learn) English at home.
+
+d) Bernardo ___is washing____ (wash) his car.
+
+e) Thais ____is playing____(play) guitar.
+
+f) Maite _____is going_____(go) to Manaus next Friday. 
+
+============================================================================================================
+Learning activities
+
+---> Page 39
+
+1. Identify and circulate the verbs that appear in the simple present at third person:
+
+A computer scientist wants to sort the cards. First he wants to sort them out by color. Then
+he wants to order them by number (2, 3, 4, 5, 6, 7, 8, 9, 10, Jack, Queen, King and Ace).
+
+	R= Wants
+
+Computer science uses special methods of doing things, and has its own special words. It is
+linked with electrical engineering, mathematics, and language science.
+
+	R= Uses
+
+Computer science looks at the theoretical parts of computers. Computer engineering looks at
+the physical parts of computers (the parts that a person can touch), and software engineering
+looks at the use of computer programs and how to make them.
+
+	R= Looks
+
+2. Transform the follow phrases into negative form:
+
+a) A computer scientist wants to sort the cards.
+
+	R= A computer scientist doesn't want to sort the cards.
+
+b) He wants to order them by number.
+
+	R= He doesn't want to order them by number.
+
+c) Computer science uses special methods.
+
+	R= Computer science doesn't uses special methods.
+
+d) Computer science looks at the theoretical parts of computers. 
+
+	R= Computer science doesn't look at the theoretical parts of computers.
+
+============================================================================================================
+Learning activities
+
+---> Page 41
+
+Write the follow sentences into affirmative and negative form, as the example:
+
+a) He / drive / a car.
+
+	Affirmative ---> He is driving a car. 
+
+	Negative ---> He is not driving a car.
+
+b) We / eat / oranges.
+
+	Affirmative ---> We are eating oranges.
+
+	Negative ---> We are not eating oranges.
+
+c) You / read / my magazine.
+
+	Affirmative ---> You are reading my magazine.
+
+	Negative ---> You are not reading my magazine.
+
+d) We / play / the piano. 
+
+	Affirmative ---> We are playing the piano.
+
+	Negative ---> We are not playing the piano.
+
+============================================================================================================
+Escreva um pequeno texto em inglês ou português sobre cada componente que compõe o computador.
+
+	Memory: Its role is to store data temporarily or permanently and use such data for the operation 
+		and viability of the resources that each device provides, interfering in the performance 
+		of each one of them as well as in the amount of information they store.
+
+	Mass storage device: In cases, mass storage is managed or device storage, where external devices 
+			     help to manage large amounts of information that increase the storage capacity 
+			     of a native storage device.
+
+	Input device: Input devices are those that input information into a computer from an external source.
+
+	Output device: Output devices are the devices in a computer for communicating information.
+
+	Central Processing Unit (CPU): The CPU is responsible for processing all the main operations of a 
+				       computer. Therefore, it is commonly called a processor.
+
+
